@@ -1,4 +1,4 @@
 # HTML-Basics
 Entry level HTML &amp; CSS
 
-<p>This will help people with understanding basic HTML & CSS.</p>
+<p>Provided documentation is in place to help anyone with interest in HTML learn basic concepts.</p>
